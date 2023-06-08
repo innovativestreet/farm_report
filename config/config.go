@@ -75,8 +75,6 @@ var SurveyDictionary = map[int64]int64{
 	115704: 68,
 }
 
-var AuthKey = "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZWNvbmRhcnlfdXNlcl90YmxfaWQiOjQ1LCJma19wcmltYXJ5X3VzZXJfdGJsX2lkIjo1OCwibmFtZSI6Ik1heWFuayIsImNvdW50cnlfY29kZSI6Iis5MSIsInVzZXJfdHlwZSI6IlByaW1hcnkiLCJpc19hY3RpdmUiOiIxIiwiY3JlYXRlZF9hdCI6IjIwMjEtMDctMTlUMDk6NTY6MzIuMDAwWiIsIm1vZGlmaWVkX2F0IjoiMjAyMS0wNy0xOVQwOTo1NjozMi4wMDBaIiwibW9kaWZpZWRfYnkiOm51bGwsImNyZWF0ZWRfYnkiOjU4LCJwcmltYXJ5X3VzZXJfdHlwZSI6MSwiaWF0IjoxNjI2Njk1MzIwLCJleHAiOjk0MDI2OTUzMjB9.dPVKo6Xs8aySYK7vrlmR2PFjWf8NDdJpNsXvVaMfKCU"
-
 var FarmAPIUrlUAT = "http://uat.itrade.ag:8983/solr/farm_data/select"
 var FarmAPIUrlPROD = "http://itrade.ag:8983/solr/farm_data/select"
 
